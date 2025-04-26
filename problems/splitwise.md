@@ -11,9 +11,10 @@
 8. The system should handle concurrent transactions and ensure data consistency.
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/splitwise/) 
+#### [Java Implementation](../solutions/java/src/splitwise/)
 #### [Python Implementation](../solutions/python/splitwise/)
-#### [C# Implementation](../solutions/c%23/Splitwise/)
+#### [C++ Implementation](../solutions/cpp/splitwise/)
+#### [C# Implementation](../solutions/csharp/splitwise/)
 #### [Go Implementation](../solutions/golang/splitwise/)
 
 ## Classes, Interfaces and Enumerations

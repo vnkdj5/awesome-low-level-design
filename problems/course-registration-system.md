@@ -12,7 +12,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/courseregistrationsystem/) 
 #### [Python Implementation](../solutions/python/courseregistrationsystem/)
-#### [C# Implementation](../solutions/c%23/CourseRegistrationSystem/)
+#### [C++ Implementation](../solutions/cpp/courseregistrationsystem/)
+#### [C# Implementation](../solutions/csharp/courseregistrationsystem/)
 #### [Go Implementation](../solutions/golang/courseregistrationsystem/)
 
 ## Classes, Interfaces and Enumerations

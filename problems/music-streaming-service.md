@@ -13,7 +13,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/musicstreamingservice/) 
 #### [Python Implementation](../solutions/python/musicstreamingservice/)
-#### [C# Implementation](../solutions/c%23/MusicStreamingService/)
+#### [C++ Implementation](../solutions/cpp/musicstreamingservice/)
+#### [C# Implementation](../solutions/csharp/musicstreamingservice/)
 #### [Go Implementation](../solutions/golang/musicstreamingservice/)
 
 ## Classes, Interfaces and Enumerations

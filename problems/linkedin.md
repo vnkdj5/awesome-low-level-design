@@ -30,7 +30,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/linkedin/) 
 #### [Python Implementation](../solutions/python/linkedin/)
-#### [C# Implementation](../solutions/c%23/LinkedIn/)
+#### [C++ Implementation](../solutions/cpp/linkedin/)
+#### [C# Implementation](../solutions/csharp/linkedin/)
 #### [Go Implementation](../solutions/golang/linkedin/)
 
 ## Classes, Interfaces and Enumerations

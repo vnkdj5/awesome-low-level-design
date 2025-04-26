@@ -13,7 +13,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/movieticketbookingsystem/) 
 #### [Python Implementation](../solutions/python/movieticketbookingsystem/)
-#### [C# Implementation](../solutions/c%23/MovieTicketBookingSystem/)
+#### [C++ Implementation](../solutions/cpp/movieticketbookingsystem/)
+#### [C# Implementation](../solutions/csharp/movieticketbookingsystem/)
 #### [Go Implementation](../solutions/golang/movieticketbookingsystem/)
 
 ## Classes, Interfaces and Enumerations

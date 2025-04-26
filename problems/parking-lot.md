@@ -11,7 +11,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/parkinglot/) 
 #### [Python Implementation](../solutions/python/parkinglot/)
-#### [C# Implementation](../solutions/c%23/ParkingLot/)
+#### [C++ Implementation](../solutions/cpp/parkinglot/)
+#### [C# Implementation](../solutions/csharp/parkinglot/)
 #### [Go Implementation](../solutions/golang/parkinglot/)
 
 ## Classes, Interfaces and Enumerations
@@ -22,3 +23,8 @@
 5. The **VehicleType** enum defines the different types of vehicles supported by the parking lot.
 6. Multi-threading is achieved through the use of synchronized keyword on critical sections to ensure thread safety.
 7. The **Main** class demonstrates the usage of the parking lot system.
+
+## Design Patterns Used:
+1. Singleton Pattern: Ensures only one instance of the ParkingLot class.
+2. Factory Pattern (optional extension): Could be used for creating vehicles based on input.
+3. Observer Pattern (optional extension): Could notify customers about available spots.

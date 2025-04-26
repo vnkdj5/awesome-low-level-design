@@ -13,7 +13,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/cricinfo/) 
 #### [Python Implementation](../solutions/python/cricinfo/)
-#### [C# Implementation](../solutions/c%23/Cricinfo/)
+#### [C++ Implementation](../solutions/cpp/cricinfo/)
+#### [C# Implementation](../solutions/csharp/cricinfo/)
 #### [Go Implementation](../solutions/golang/cricinfo/)
 
 ## Classes, Interfaces and Enumerations

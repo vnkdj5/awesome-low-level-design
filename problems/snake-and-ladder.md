@@ -13,7 +13,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/snakeandladdergame/) 
 #### [Python Implementation](../solutions/python/snakeandladdergame/)
-#### [C# Implementation](../solutions/c%23/SnakeAndLadderGame/)
+#### [C++ Implementation](../solutions/cpp/snakeandladdergame/)
+#### [C# Implementation](../solutions/csharp/snakeandladdergame/)
 #### [Go Implementation](../solutions/golang/snakeandladdergame/)
 
 ## Classes, Interfaces and Enumerations

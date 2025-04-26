@@ -12,7 +12,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/taskmanagementsystem/) 
 #### [Python Implementation](../solutions/python/taskmanagementsystem/)
-#### [C# Implementation](../solutions/c%23/TaskManagementSystem/)
+#### [C++ Implementation](../solutions/cpp/taskmanagementsystem/)
+#### [C# Implementation](../solutions/csharp/taskmanagementsystem/)
 #### [Go Implementation](../solutions/golang/taskmanagementsystem/)
 
 ## Classes, Interfaces and Enumerations

@@ -31,7 +31,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/socialnetworkingservice/) 
 #### [Python Implementation](../solutions/python/socialnetworkingservice/)
-#### [C# Implementation](../solutions/c%23/SocialNetworkingService/)
+#### [C++ Implementation](../solutions/cpp/socialnetworkingservice/)
+#### [C# Implementation](../solutions/csharp/socialnetworkingservice/)
 #### [Go Implementation](../solutions/golang/socialnetworkingservice/)
 
 ## Classes, Interfaces and Enumerations

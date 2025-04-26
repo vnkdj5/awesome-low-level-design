@@ -12,7 +12,8 @@
 ## Implementations
 #### [Java Implementation](../solutions/java/src/coffeevendingmachine/) 
 #### [Python Implementation](../solutions/python/coffeevendingmachine/)
-#### [C# Implementation](../solutions/c%23/CoffeeVendingMachine/)
+#### [C++ Implementation](../solutions/cpp/coffeevendingmachine/)
+#### [C# Implementation](../solutions/csharp/coffeevendingmachine/)
 #### [Go Implementation](../solutions/golang/coffeevendingmachine/)
 
 ## Classes, Interfaces and Enumerations
