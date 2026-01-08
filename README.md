@@ -118,3 +118,11 @@ Please make sure to update Readme files and documentation as appropriate.
 <p align="center">
   <i>If you find this resource helpful, please give it a star and share it with others!</i>
 </p>
+
+
+
+## 🤝 MISC
+1. <strong>How to decide on the log level?</strong>
+<p align="center">
+  <img src="images/log-level-decision.png" >
+</p>
